@@ -3,7 +3,7 @@
 ![Cloud-it](./static/Logo.png)
 
 
-Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=share
+Whiteboard Diagram: https://app.eraser.io/workspace/b5TZiF1HEBh1j1HMUWXv?origin=share
 
 ### Prerequisite
 
